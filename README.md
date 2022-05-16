@@ -1,3 +1,11 @@
+# Використані розширення:
+
+`styled-components`
+`framer-motion`
+`react-icon`
+`react-router-dom`
+`@splidejs/react-splide`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
